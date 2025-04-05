@@ -7,6 +7,8 @@
 
 
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TSK-Glofy&theme=radical&layout=compact)
+## Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/TSK-Glofy)
 
 ## Profile View
 Counting of visitors to this page in this section started from April 5, 2025
