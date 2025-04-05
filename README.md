@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi there, My name is Glofy👋
 
 ![snake gif](https://github.com/TSK-Glofy/TSK-Glofy/blob/output/github-snake.svg)
+
+- 🔭 I’m currently studying on UNSW
+- 😄 Pronouns: He/Him
+
+
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TSK-Glofy&theme=radical&layout=compact)
 
 <!--
 **TSK-Glofy/TSK-Glofy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
