@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![snake gif](https://github.com/TSK-Glofy/TSK-Glofy/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **TSK-Glofy/TSK-Glofy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
