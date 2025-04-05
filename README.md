@@ -8,6 +8,11 @@
 
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TSK-Glofy&theme=radical&layout=compact)
 
+## Profile View
+Counting of visitors to this page in this section started from April 5, 2025
+
+![TSK-Glofy](https://count.getloli.com/@TSK-Glofy?name=TSK-Glofy&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 <!--
 **TSK-Glofy/TSK-Glofy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
