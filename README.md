@@ -5,6 +5,7 @@
 - 🔭 I’m currently studying on UNSW
 - 😄 Pronouns: He/Him
 
+![Animate 3D](https://github.com/TSK-Glofy/TSK-Glofy/profile-3d-contrib/profile-south-season-animate.svg)
 
 ## Leetcode Stats
 ![](https://leetcard.jacoblin.cool/TSK-Glofy?font=Dancing_Script)
