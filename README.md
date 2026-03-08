@@ -6,7 +6,6 @@
 - 😄 Pronouns: He/Him
 
 
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TSK-Glofy&theme=radical&layout=compact)
 ## Leetcode Stats
 ![](https://leetcard.jacoblin.cool/TSK-Glofy?font=Dancing_Script)
 ## Profile View
