@@ -16,8 +16,12 @@
 
 #### 💼 Work Experience
 <p>
-<strong>Sigma Trading Management</strong> -- <code>AI Agent & Full-Stack</code> -- <code>2026.1 – Present</code><br/>
-<strong>Euler AI</strong> -- <code>RAG & LLM Evaluation</code> -- <code>2025.7 – Present</code><br/>
+<strong>Sigma Trading Management</strong> · <code>2026.1 – Present</code><br/>
+<sub>AI Agent & Full-Stack Development</sub>
+</p>
+<p>
+<strong>Euler AI</strong> · <code>2025.7 – Present</code><br/>
+<sub>AI Agent & Full-Stack Development</sub>
 </p>
 
 #### 🚀 Featured Project
