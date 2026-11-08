@@ -1,8 +1,8 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 */24 * * *"
+  schedule: # 00:00 AEDT == 13:00 UTC
+    - cron: "0 14 * * *"
 
   workflow_dispatch:
 
